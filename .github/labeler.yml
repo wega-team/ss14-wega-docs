@@ -1,0 +1,4 @@
+":book: Документация :book:":
+  - changed-files:
+    - any-glob-to-any-file:
+      - "**/*.md"

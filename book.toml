@@ -1,0 +1,14 @@
+[book]
+title = "Документация SS14-Wega"
+author = "Wega Development Team"
+language = "ru"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+additional-css = ["theme/mdbook-admonish.css"]
