@@ -11,4 +11,4 @@ build-dir = "book"
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "ayu"
-additional-css = ["theme/mdbook-admonish.css"]
+additional-css = ["theme/mdbook-admonish.css", "theme/mdbook-changelog.css"]

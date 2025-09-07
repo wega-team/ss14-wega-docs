@@ -1,0 +1,57 @@
+/*
+================================
+        Changelog стиль 
+================================
+*/
+
+details.admonition.admonish-changelog,
+div.admonition.admonish-changelog {
+  border: 2px dashed #8e24aa;
+  border-inline-start: 0.5rem solid #ba68c8;
+  background: #1a0f1f;
+  color: #f3e5f5;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+details.admonition.admonish-changelog > summary.admonition-title,
+div.admonition.admonish-changelog > .admonition-title {
+  background: #4a148c;
+  color: #e1bee7;
+  padding: 1.2rem 1.5rem;
+  font-weight: 900;
+  font-size: 2rem;
+  letter-spacing: 0.5px;
+}
+
+.admonish-changelog .changelog-meta {
+  padding: 0.9rem 1.5rem;
+  font-size: 2rem;
+  color: #ce93d8;
+}
+
+.changelog-changes {
+  margin: 1rem 1.5rem 1.5rem 1.5rem;
+}
+
+.changelog-changes summary {
+  cursor: pointer;
+  padding: 0.5rem 0.8rem;
+  border-radius: 8px;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 1.2rem;
+  list-style: none;
+  margin-bottom: 0.8rem;
+  background: rgba(255,255,255,0.08);
+  color: inherit;
+}
+
+.changelog-changes[open] summary {
+  background: rgba(255,255,255,0.15);
+  transform: scale(1.02);
+}
+
+.changelog-changes summary:hover {
+  background: rgba(255,255,255,0.2);
+}
