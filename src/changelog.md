@@ -11,6 +11,7 @@
      🔗 https://github.com/wega-team/ss14-wega/pull/561
      🔗 https://github.com/wega-team/ss14-wega/pull/565
      🔗 https://github.com/wega-team/ss14-wega/pull/563
+     🔗 https://github.com/wega-team/ss14-wega/pull/566
   </div>
 
    <details class="changelog-changes">
@@ -24,6 +25,7 @@
       <li> ✨ Добавлены рыбки Кои, несколько вариаций </li>
       <li> ✨ Добавлена клетка рыбок Кои в карго за 1500 с 1 рыбёхой </li>
       <li> ✨ Добавлен геймрул KoiMigration, по аналогии с мышами и улитками </li>
+      <li> ⚒️ Логигка работы комбенизона акробата, теперь запрет идёт исключительно на проход в вентиляцию </li>
     </ul>
   </details>
 </details>
