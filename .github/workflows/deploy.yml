@@ -3,6 +3,10 @@ name: Deploy mdBook site to Pages
 on:
   push:
     branches: ["main"]
+    paths:
+      - 'src/**'
+      - 'theme/**'
+      - 'book.toml'
   workflow_dispatch:
 
 permissions:
@@ -19,10 +23,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: Install mdBook
         run: cargo install mdbook --no-default-features --version 0.4.40
+        
       - name: Build with mdBook
         run: mdbook build
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
