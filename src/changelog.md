@@ -5,6 +5,24 @@
 ---
 
 <details class="admonition admonish-changelog">
+  <summary class="admonition-title"><p>📅 2026-10-18 - Обновления</p></summary>
+
+  <div class="changelog-meta">
+     🔗 https://github.com/wega-team/ss14-wega/pull/569
+  </div>
+
+   <details class="changelog-changes">
+    <summary>Развернуть</summary>
+    <ul>
+      <li> ✨ Всем расам добавлено моргание (кроме Андроидов, Фантомов и Резоми). </li>
+      <li> 🐛 Исправлено отображение всех направленных объектов в сборке. </li>
+    </ul>
+  </details>
+</details>
+
+---
+
+<details class="admonition admonish-changelog">
   <summary class="admonition-title"><p>📅 2026-10-17 - Обновления</p></summary>
 
   <div class="changelog-meta">
@@ -12,6 +30,7 @@
      🔗 https://github.com/wega-team/ss14-wega/pull/565
      🔗 https://github.com/wega-team/ss14-wega/pull/563
      🔗 https://github.com/wega-team/ss14-wega/pull/566
+     🔗 https://github.com/wega-team/ss14-wega/pull/568
   </div>
 
    <details class="changelog-changes">
@@ -26,6 +45,10 @@
       <li> ✨ Добавлена клетка рыбок Кои в карго за 1500 с 1 рыбёхой </li>
       <li> ✨ Добавлен геймрул KoiMigration, по аналогии с мышами и улитками </li>
       <li> ⚒️ Логигка работы комбенизона акробата, теперь запрет идёт исключительно на проход в вентиляцию </li>
+      <li> ⚒️ Незначительно изменена Ишимура </li>
+      <li> ⚒️ Относительно чего-то там изменен Марафон </li>
+      <li> ✨ Добавлено некоторое количество ролей на Марафон и Ишимуру </li>
+      <li> 🐛 Исправлена загрузка некоторых карт </li>
     </ul>
   </details>
 </details>
