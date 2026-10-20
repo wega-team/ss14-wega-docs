@@ -5,16 +5,41 @@
 ---
 
 <details class="admonition admonish-changelog">
+  <summary class="admonition-title"><p>📅 2026-10-20 - Обновления</p></summary>
+
+  <div class="changelog-meta">
+     🔗 https://github.com/wega-team/ss14-wega/pull/573
+  </div>
+
+   <details class="changelog-changes">
+    <summary>Развернуть</summary>
+    <ul>
+      <li> ⚒️ Перенесён выбор барков в раздел "Голос", в меню персонализации </li>
+    </ul>
+  </details>
+</details>
+
+---
+
+<details class="admonition admonish-changelog">
   <summary class="admonition-title"><p>📅 2026-10-19 - Обновления</p></summary>
 
   <div class="changelog-meta">
      🔗 https://github.com/wega-team/ss14-wega/pull/571
+     🔗 https://github.com/wega-team/ss14-wega/pull/572
   </div>
 
    <details class="changelog-changes">
     <summary>Развернуть</summary>
     <ul>
       <li> ⚒️ респрайт 2 овощей и нори листика </li>
+      <li> ✨ Добавлена TTS озвучка сообщений с майндчата </li>
+      <li> ⚒️ Изменена дальности слышимости майндчата в 2 раза </li>
+      <li> 🐛 Исправлена ошибочка при появлении пентаграммы у обоих культов над головой </li>
+      <li> 🐛 Исправлена слышимость майдчата в целом </li>
+      <li> 🐛 Исправлена работа TTS (наверно) </li>
+      <li> 🐛 Исправлена работа Барков </li>
+      <li> 🐛 Исправлено отображение имён формата голосов у некоторых рас </li>
     </ul>
   </details>
 </details>
