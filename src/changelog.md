@@ -5,6 +5,26 @@
 ---
 
 <details class="admonition admonish-changelog">
+  <summary class="admonition-title"><p>📅 2026-10-24 - Обновления</p></summary>
+
+  <div class="changelog-meta">
+     🔗 https://github.com/wega-team/ss14-wega/pull/577
+  </div>
+
+   <details class="changelog-changes">
+    <summary>Развернуть</summary>
+    <ul>
+      <li> ✨ Добавлена система динамического звука. </li>
+      <li> ✨ Добавлена продвинутая система звукоизоляции. Звук теперь отражается от плотных стен (укрепленные, и т.д.), проходит сквозь стекло с потерей громкости и так далее. </li>
+      <li> ✨ Глухие персонажи теперь реально ничего не слышат. </li>
+      <li> ⚒️ Громкость и эффекты эха теперь применяются ко всем пространственным звукам, кроме глобальных. </li>
+    </ul>
+  </details>
+</details>
+
+---
+
+<details class="admonition admonish-changelog">
   <summary class="admonition-title"><p>📅 2026-10-23 - Обновления</p></summary>
 
   <div class="changelog-meta">
