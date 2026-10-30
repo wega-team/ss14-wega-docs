@@ -5,6 +5,34 @@
 ---
 
 <details class="admonition admonish-changelog">
+  <summary class="admonition-title"><p>📅 2026-10-29 - Обновления</p></summary>
+
+  <div class="changelog-meta">
+     🔗 https://github.com/wega-team/ss14-wega/pull/579
+     🔗 https://github.com/wega-team/ss14-wega/pull/584
+     🔗 https://github.com/wega-team/ss14-wega/pull/581
+     🔗 https://github.com/wega-team/ss14-wega/pull/586
+  </div>
+
+   <details class="changelog-changes">
+    <summary>Развернуть</summary>
+    <ul>
+      <li> ⚒️ Изменен модули штурмового борга: каждый модуль вооружения заимел ближнее оружие. Снайпа - кинжал, л6 - энергомеч, црка - дабла. Энергомечы боргов не дают рефлект </li>
+      <li> ⚒️ Дабла теперь имеет 20 урона порезами и термы. Добавлено 25 урона структурам и снижен модификатор ЛКМ с 1.3 до 1.25 </li>
+      <li> ⚒️ Борги с возможностью поднимать материалы могут брать картон и алмазы! </li>
+      <li> 🐛 Переносные зарядники вновь одеваются на слот спины! </li>
+      <li> 🐛 Монитор у медборга вновь работает! </li>
+      <li> ✨ Жуткий месяц! </li>
+      <li> 🐛 Исправлено веселье! Ратвар больше не может вербовать людей с МЩ. </li>
+      <li> ⚒️ Всем расам подогнано количество крови под актуальные значения </li>
+      <li> 🐛 Исправлена слышимость звуков у безтелесных сущностей </li>
+    </ul>
+  </details>
+</details>
+
+---
+
+<details class="admonition admonish-changelog">
   <summary class="admonition-title"><p>📅 2026-10-24 - Обновления</p></summary>
 
   <div class="changelog-meta">
