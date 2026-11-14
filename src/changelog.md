@@ -5,6 +5,26 @@
 ---
 
 <details class="admonition admonish-changelog">
+  <summary class="admonition-title"><p>📅 2026-11-14 - Обновления</p></summary>
+
+  <div class="changelog-meta">
+     🔗 https://github.com/wega-team/ss14-wega/pull/583
+  </div>
+
+   <details class="changelog-changes">
+    <summary>Развернуть</summary>
+    <ul>
+      <li> ✨ Добавлена поддержка пробития брони для оружия ближнего боя. </li>
+      <li> ⚒️ Гемомансер и гаргантюа больше не могут использовать огнестрельное оружие. </li>
+      <li> ⚒️ Переработаны способности BloodSwell и рывок гаргантюа. </li>
+      <li> ⚒️ Изменены правила появления антагонистов и игровые режимы. </li>
+    </ul>
+  </details>
+</details>
+
+---
+
+<details class="admonition admonish-changelog">
   <summary class="admonition-title"><p>📅 2026-11-07 - Обновления</p></summary>
 
   <div class="changelog-meta">
