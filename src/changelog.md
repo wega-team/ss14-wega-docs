@@ -5,6 +5,31 @@
 ---
 
 <details class="admonition admonish-changelog">
+  <summary class="admonition-title"><p>📅 2026-11-22 - Обновления</p></summary>
+
+  <div class="changelog-meta">
+     🔗 https://github.com/wega-team/ss14-wega/pull/602
+     🔗 https://github.com/wega-team/ss14-wega/pull/600
+     🔗 https://github.com/wega-team/ss14-wega/pull/601
+  </div>
+
+   <details class="changelog-changes">
+    <summary>Развернуть</summary>
+    <ul>
+      <li> ⚒️ Тенекины теперь не могут ставить порталы рядом с другими порталами </li>
+      <li> 🐛 Тенекины теперь не могут переносить существ через свои порталы </li>
+      <li> ✨ Шахтёрский МОД-костюм получил встроенный модуль "Пепельное покрытие": на лаве и айсмуне даёт броню и не замедляет, лучше держит взрывы и защищает от погоды. @liquiduser4rl толстый. </li>
+      <li> ⚒️ В собранном шахтёрском МОД-костюме модуль хранения заменён на большой. </li>
+      <li> ✨ Новые глазные импланты и их изучение! </li>
+      <li> ✨ В фабрикатор биокубов добавлены все кубы предков рас! </li>
+      <li> ⚒️ Экстрактор имплантов вновь способен извлекать импланты, однако теперь только НТшные и которые являются подкожными. </li>
+    </ul>
+  </details>
+</details>
+
+---
+
+<details class="admonition admonish-changelog">
   <summary class="admonition-title"><p>📅 2026-11-14 - Обновления</p></summary>
 
   <div class="changelog-meta">
