@@ -11,6 +11,7 @@
      🔗 https://github.com/wega-team/ss14-wega/pull/602
      🔗 https://github.com/wega-team/ss14-wega/pull/600
      🔗 https://github.com/wega-team/ss14-wega/pull/601
+     🔗 https://github.com/wega-team/ss14-wega/pull/599
   </div>
 
    <details class="changelog-changes">
@@ -23,6 +24,7 @@
       <li> ✨ Новые глазные импланты и их изучение! </li>
       <li> ✨ В фабрикатор биокубов добавлены все кубы предков рас! </li>
       <li> ⚒️ Экстрактор имплантов вновь способен извлекать импланты, однако теперь только НТшные и которые являются подкожными. </li>
+      <li> 🐛 имплант подчинения снова подчиняет — работают блокировки самоимпланта, трупа и mindshield, цель получает задачу и эффекты </li>
     </ul>
   </details>
 </details>
